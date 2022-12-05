@@ -1,1 +1,2 @@
-# Oleksandr_Shynkarov
+# Selenium Home task (variant 3)
+
